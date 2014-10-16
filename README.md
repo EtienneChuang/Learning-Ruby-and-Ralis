@@ -20,15 +20,16 @@ From zero to deploy
   <li>Click "Create</li>
   <li>Wait Cloud9 to finish provisioning the workspace and click start-editing</li>
 </ol>
+![cloud9IDE](https://lh6.googleusercontent.com/-rhjwIBbRe04/VD_ghCx3woI/AAAAAAAACBE/nwqpiTvbPZM/w982-h515-no/cloud9IDE.JPG)
+<i>cloud9IDE</i><br>
+![createnew](https://lh6.googleusercontent.com/-hN5R6sx4tdA/VD_ghFWVZ5I/AAAAAAAACA8/Rl7wfTtuUCM/w643-h524-no/create_new.JPG)
 
-<img></img>
-<i>cloud9IDE</i>
+<i></i>
 
 <hr/>
 <font >All is ready except ralis itself......</font>
 <h4>Install ralis</h4>
 use <code><font color="blue">gem</font></code> command provide by <i>RubyGem</i> package manager
-<img></img>
-<i>install gem</i>
+![install gem](https://lh3.googleusercontent.com/-y2iuy_z2oPk/VD_ghHQuv4I/AAAAAAAACBA/gqwalAAXkOc/w982-h193-no/install%2Bgem.JPG)
 wait until it finish downloading, then we can start a application.
 <hr/>
