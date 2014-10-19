@@ -38,5 +38,5 @@ Depending on your version of ruby, you may need to install ruby rdoc/ri data:
 * bin/rake: spring inserted
 * bin/rails: spring inserted
 </pre>
-The file structure of the project (<a href="#fig1">fig1</a>)
-<img src="https://lh6.googleusercontent.com/-kVp-eZeXDOM/VEOf8qSyURI/AAAAAAAACCA/xqAt8luVIKc/w982-h516-no/workspaceapp.JPG" ><font id="#fig1">fig1</font></img>
+The file structure of the project
+[file structure](https://lh6.googleusercontent.com/-kVp-eZeXDOM/VEOf8qSyURI/AAAAAAAACCA/xqAt8luVIKc/w982-h516-no/workspaceapp.JPG)
