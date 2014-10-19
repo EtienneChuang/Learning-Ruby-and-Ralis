@@ -39,4 +39,4 @@ Depending on your version of ruby, you may need to install ruby rdoc/ri data:
 * bin/rails: spring inserted
 </pre>
 The file structure of the project (<a href="#fig.1">fig.1</a>)
-<img src="https://lh6.googleusercontent.com/-kVp-eZeXDOM/VEOf8qSyURI/AAAAAAAACCA/xqAt8luVIKc/w982-h516-no/workspaceapp.JPG" id="#fig.1"/>
+<img src="https://lh6.googleusercontent.com/-kVp-eZeXDOM/VEOf8qSyURI/AAAAAAAACCA/xqAt8luVIKc/w982-h516-no/workspaceapp.JPG" id="#fig.1">fig.1</img>
