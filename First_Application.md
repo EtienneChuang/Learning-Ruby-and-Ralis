@@ -2,7 +2,7 @@
 For creating an appliation, we should create a workspace to work in.
 Use <code>mkdir</code> command to make a new directory if it dosen't exist.
 [make workspace](https://lh5.googleusercontent.com/-bq_vHtP7X3A/VEOf8uoGUnI/AAAAAAAACB0/S9bP8zbuT5g/w379-h106-no/workspace.JPG)
-<h3>Create application</h3>
+<h3>Create an application</h3>
 Create application using <code>ralis <version> new projectname.app</code> command.
 The result will be the following.
 <pre>
