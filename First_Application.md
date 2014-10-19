@@ -1,6 +1,6 @@
 <h3>Make a workspace</h3>
 For creating an appliation, we should create a workspace to work in.
-Use <code>mkdir</code> command to make a new directory if it dosen't exist.
+Use <code>mkdir</code> command to make a new directory if it dosen't exist.<br>
 ![make workspace](https://lh5.googleusercontent.com/-bq_vHtP7X3A/VEOf8uoGUnI/AAAAAAAACB0/S9bP8zbuT5g/w379-h106-no/workspace.JPG)
 <h3>Create an application</h3>
 Create application using <code>ralis <version> new projectname.app</code> command.
@@ -38,5 +38,5 @@ Depending on your version of ruby, you may need to install ruby rdoc/ri data:
 * bin/rake: spring inserted
 * bin/rails: spring inserted
 </pre>
-The file structure of the project
+The file structure of the project<br>
 ![file structure](https://lh6.googleusercontent.com/-kVp-eZeXDOM/VEOf8qSyURI/AAAAAAAACCA/xqAt8luVIKc/w982-h516-no/workspaceapp.JPG)
