@@ -2,6 +2,8 @@
       <li><a href="#make-a-workspace">Make a workspace</a></li>
       <li><a href="#create-an-application">Create an application</a></li>
       <li><a href="#bundle">Bundle</a></li>
+      <li><a href="#rails-server">rails server</a></li>
+      <li><a href="#Model-View-Controller-MVC-">Model-View-Controller(MVC)</a></li>
 </ul>
 
 <h3 id="#make-a-workspace">Make a workspace</h3>
@@ -49,7 +51,7 @@ The file structure of the project<br>
 <h3 id="#bundle">Bundle</h3>
 Bundle is run automatically via <code>bundle install</code> when we create the new app. But now, we're going to <b>make some changes to the default gems</b> and <b>run bundle</b> again.<br/>
 Double-click the <i>Gemgile</i> in the diretory and you can see the file like picture below, if you can't see anything, try to click the gear icon on the top right to refresh file tree and then try again.<br>
-![gem file] (https://)<br>
+![gem file](https://lh4.googleusercontent.com/-psNAVEnPFBk/VEiLKZnLisI/AAAAAAAACDc/q--_hvPYs-Y/w981-h479-no/gemfile.JPG)<br>
 Bundle will install the latest version automatically unless we specify a verson number.<br>
 There are to common ways to do some control over the version used by Rails.<br>
 First one look like this:<br/>
@@ -93,3 +95,16 @@ Installing web-console 2.0.0.beta3 (was 2.0.0.beta4)
 Your bundle is complete!
 Use `bundle show [gemname]` to see where a bundled gem is installed.
 </pre>
+<h3 id="rails-server">Rails server</h3>
+After finishing installing above, now we have app which can run, now, all we need is server.<br>
+To run a server, use <code>rails server</code>, this is for using on localhost, whereas, on Cloud9, we should add two arguments: <i>IP</i> and <i>PORT</i>, these value can be fetched by using environment variables: <i><b>$IP</b></i> and <i><b>$PORT</b></i>. We should open a new terminal to run the server so that we can still issue command in first terminal.
+When running server successfully, we can see the result like below:<br>
+![server](https://lh4.googleusercontent.com/-y9nBGn5GQnI/VEiKfUsSz0I/AAAAAAAACCs/n7ktGJTtLmg/w981-h171-no/server.JPG)
+Then what should we do to go into the application? type <a href="#">http://localhost:3000/</a> on browser URL bar; on Cloud9 IDE, we should go to <i>Share</i> and copy the URL of the application that Cloud9 provides,<br>
+![share](https://lh4.googleusercontent.com/-BAOUheq1_ts/VEiL7tjvd6I/AAAAAAAACD4/0F2aolBgct8/w939-h593-no/share.JPG)
+and then put it on browser URL bar,we will get a page like below:
+![page](https://lh3.googleusercontent.com/-60HA6xVcrqo/VEiKfrVYVlI/AAAAAAAACC0/-Cku3NxBq1E/w982-h451-no/page.JPG)
+To see infomation about the environment, click the link <i>"about your application environment"</i>.
+![info](https://lh5.googleusercontent.com/--P0nCUY3DYY/VEiKfgSsOHI/AAAAAAAACCw/YysFhGrTI04/w982-h497-no/info.JPG)
+
+<h3 id="Model-View-Controller-MVC-">Model-View-Controller(MVC)<h3>
