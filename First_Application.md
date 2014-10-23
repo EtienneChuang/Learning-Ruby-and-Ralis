@@ -1,14 +1,14 @@
 <ul>
-      <li><a href="#make a workspace">Make a workspace</a></li>
-      <li><a href="#create an application">Create an application</a></li>
+      <li><a href="#makeaworkspace">Make a workspace</a></li>
+      <li><a href="#createanapplication">Create an application</a></li>
       <li><a href="#bundle">Bundle</a></li>
 </ul>
 
-<h3 id="#mkworkspace">Make a workspace</h3>
+<h3 id="#makeaworkspace">Make a workspace</h3>
 For creating an appliation, we should create a workspace to work in.
 Use <code>mkdir</code> command to make a new directory if it dosen't exist.<br>
 ![make workspace](https://lh5.googleusercontent.com/-bq_vHtP7X3A/VEOf8uoGUnI/AAAAAAAACB0/S9bP8zbuT5g/w379-h106-no/workspace.JPG)
-<h3 id="#createanapp">Create an application</h3>
+<h3 id="#createanapplication">Create an application</h3>
 Create application using <code>ralis <version> new projectname.app</code> command.
 The result will be the following.
 <pre>
