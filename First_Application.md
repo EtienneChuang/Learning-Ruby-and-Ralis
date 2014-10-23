@@ -1,6 +1,6 @@
 <ul>
-      <li><a href="#mkworkspace">Make a workspace</a></li>
-      <li><a href="#createanapp">Create an application</a></li>
+      <li><a href="#make a workspace">Make a workspace</a></li>
+      <li><a href="#create an application">Create an application</a></li>
       <li><a href="#bundle">Bundle</a></li>
 </ul>
 
