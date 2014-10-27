@@ -3,7 +3,7 @@
       <li><a href="#create-an-application">Create an application</a></li>
       <li><a href="#bundle">Bundle</a></li>
       <li><a href="#rails-server">Rails server</a></li>
-      <li><a href="#Mmodel-view-controllermvc">Model-View-Controller(MVC)</a></li>
+      <li><a href="#model-view-controllermvc">Model-View-Controller(MVC)</a></li>
 </ul>
 
 <h3 id="#make-a-workspace">Make a workspace</h3>
