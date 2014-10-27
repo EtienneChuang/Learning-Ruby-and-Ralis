@@ -3,7 +3,7 @@
       <li><a href="#create-an-application">Create an application</a></li>
       <li><a href="#bundle">Bundle</a></li>
       <li><a href="#rails-server">Rails server</a></li>
-      <li><a href="#Model-View-Controller-MVC-">Model-View-Controller(MVC)</a></li>
+      <li><a href="#Model-View-ControllerMVC">Model-View-Controller(MVC)</a></li>
 </ul>
 
 <h3 id="#make-a-workspace">Make a workspace</h3>
@@ -107,4 +107,11 @@ and then put it on browser URL bar,we will get a page like below:
 To see infomation about the environment, click the link <i>"about your application environment"</i>.
 ![info](https://lh5.googleusercontent.com/--P0nCUY3DYY/VEiKfgSsOHI/AAAAAAAACCw/YysFhGrTI04/w982-h497-no/info.JPG)
 
-<h3 id="Model-View-Controller-MVC-">Model-View-Controller(MVC)<h3>
+<h3 id="Model-View-Controller-MVC-">Model-View-Controller(MVC)</h3>
+![mvc](https://softcover.s3.amazonaws.com/636/ruby_on_rails_tutorial_3rd_edition/images/figures/mvc_schematic.png)<br>
+"<i>I think a web server diagram should be added between browser and controller.</i>"<br>
+How it works?<br>
+-<b>browser</b> send a request to <b>web server</b><br>
+-<b>web server</b> render the request then send to <b>controller</b><br>
+-according to the request, the <b>controller</b> will receive a view which is the converted HTML page to send back to <b>browser</b>.<br>
+-for dynamic sites, <b>controlle</b>r also interacts with <b>model</b> and communicates with the database, after that, <b>controller</b> send back the complete page to <b>browser</b><br>
